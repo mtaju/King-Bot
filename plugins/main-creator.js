@@ -4,14 +4,14 @@ let pp = princeImg.getRandom()
 const cat = `*_🛡️ᴘʀɪɴᴄᴇ ʙᴏᴛ ᴍᴅ🛡️_*
 
 
-*_—◉ ᴘʀɪɴᴄᴇ ʙᴏᴛ ᴏᴡɴᴇʀ 𝟷 wa.me/923092668108_*
+*_—◉ ᴘʀɪɴᴄᴇ ʙᴏᴛ ᴏᴡɴᴇʀ 𝟷 wa.me/255734980103_*
 
-*_—◉ ᴘʀɪɴᴄᴇ ʙᴏᴛ ᴏᴡɴᴇʀ 2 wa.me/92_*
+*_—◉ learn more to mt Lazack*
 *---------------------*
 
 
 *_ᴛʜᴇ ᴍᴏᴅᴇʀᴀᴛᴏʀ_*
-*${developer}*`
+*LAZACK MD*`
 
 await conn.sendFile(m.chat, pp, 'menuvid', cat, fkontak)
 }
